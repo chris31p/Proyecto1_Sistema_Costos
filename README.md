@@ -23,7 +23,9 @@ Finalmente, a través de un acumulador por agregando el valor de cada compra y d
 ![image](https://github.com/user-attachments/assets/13257a6a-6be9-4f47-9e2e-7205197e900a)
 
 RESULTADO:
-![image](https://github.com/user-attachments/assets/f764dd6d-9544-40e8-a4be-0b5f5328639b)
+
+![image](https://github.com/user-attachments/assets/8d34a484-5245-495c-a55a-4a4d45981e10)
+
 ![image](https://github.com/user-attachments/assets/a01d308b-df39-42e5-850c-6f5b8a0148dc)
 
 

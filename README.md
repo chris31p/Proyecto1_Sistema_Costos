@@ -22,6 +22,11 @@ También nos pide calcular el costo por envío y por peso del artículo, por lo 
 Finalmente, a través de un acumulador por agregando el valor de cada compra y detallo los valores del mismo: 
 ![image](https://github.com/user-attachments/assets/13257a6a-6be9-4f47-9e2e-7205197e900a)
 
+RESULTADO:
+![image](https://github.com/user-attachments/assets/f764dd6d-9544-40e8-a4be-0b5f5328639b)
+![image](https://github.com/user-attachments/assets/a01d308b-df39-42e5-850c-6f5b8a0148dc)
+
+
 
 Autor: Christopher Pesántez
 DWFS - C16
